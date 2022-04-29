@@ -1,0 +1,14 @@
+We have finished setting up an open nebula at 511.installed ubuntu 20.04.
+Link for installation https://computingforgeeks.com/install-opennebula-front-end-on-ubuntu/
+all need to install it on your machine in a group and then create VM templates  on it.
+link: https://computingforgeeks.com/create-centos-ubuntu-debian-vm-templates-opennebula/
+then through shell deploy your mini project
+Creating an Application in SalesForce.com using Apex programming Language.
+Refer this project -
+https://trailhead.salesforce.com/en/content/learn/projects/use-apex-to-automate-business-processes
+
+Sales force assignment Reference link:
+https://trailhead.salesforce.com/content/learn/projects/flow_calculate
+
+KVM: 
+https://www.tecmint.com/install-and-configure-kvm-in-linux/
